@@ -1,0 +1,2 @@
+F1,Accuracy,Recall,Precision,Data,Model,Trainset_absolute,Test_absolute,Train_energy,Train_duration,Datetime
+0.58,0.7,0.7,0.49,Cola,XLMR-Base,6698,2871,0.0610034026271249,577.5084071159363,2023-03-21 09:55:06

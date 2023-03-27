@@ -1,0 +1,2 @@
+F1,Accuracy,Recall,Precision,Data,Model,Trainset_absolute,Test_absolute,Train_energy,Train_duration,Datetime
+0.17,0.33,0.33,0.11,MedicalAbstracts,XLMR-Base,10108,4330,0.0937467859797603,888.787234544754,2023-03-21 08:28:20

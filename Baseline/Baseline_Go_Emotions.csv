@@ -1,0 +1,2 @@
+F1,Accuracy,Recall,Precision,Data,Model,Trainset_absolute,Test_absolute,Train_energy,Train_duration,Datetime
+0.64,0.65,0.65,0.64,Go_Emotions,XLMR-Base,10665,4572,0.0966790127959426,923.3367063999176,2023-03-21 08:44:12

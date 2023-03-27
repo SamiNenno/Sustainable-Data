@@ -1,0 +1,2 @@
+F1,Accuracy,Recall,Precision,Data,Model,Trainset_absolute,Test_absolute,Train_energy,Train_duration,Datetime
+0.77,0.77,0.77,0.77,Yahoo,XLMR-Base,77000,33000,0.7091935137032402,6745.948302268982,2023-03-21 13:18:06

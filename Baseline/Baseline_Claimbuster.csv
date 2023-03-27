@@ -1,0 +1,2 @@
+F1,Accuracy,Recall,Precision,Data,Model,Trainset_absolute,Test_absolute,Train_energy,Train_duration,Datetime
+0.84,0.84,0.84,0.84,Claimbuster,XLMR-Base,16473,7060,0.1503418691971763,1425.471319437027,2023-02-27 16:26:06
